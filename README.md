@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bspecv
-- 👀 I’m interested in learning everything
-- 🌱 I’m currently learning solidty and everything else
+- 👀 I’m interested in learning period.
+- 🌱 I’m currently learning network and IT security.
 - 💞️ I’m looking to collaborate on anything that applies 
 - 📫 How to reach me here.
 
